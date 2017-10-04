@@ -1,0 +1,19 @@
+.navbar-default {
+  border: none;
+}
+
+header {
+    color:red;
+ 
+   /*background: url('../images/TempteysBanner.jpg') center center no-repeat; 
+  height: 600px;*/
+}
+
+.Textcolor{
+  
+		color:red;
+        /*border:dashed;*/
+	
+}
+
+.top-buffer { margin-top:20px; }
